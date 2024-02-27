@@ -5,7 +5,6 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Login from "./pages/Login.jsx";
 import EmpDashboard from "./pages/EmpDashboard.jsx";
 import HrDAshboard from "./pages/HrDAshboard.jsx";
-import Test from "./components/test.jsx";
 import HrDashboardHome from "./components/Hr/HrDashboardHome.jsx";
 import HrAdduser from "./components/Hr/HrAdduser.jsx";
 import HrUpdateuser from "./components/Hr/HrUpdateuser.jsx";
